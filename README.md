@@ -1,7 +1,7 @@
 ## Hi there! I'm Herbert Henrique 👋
 
 
-- 🔭 I’m currently looking for my first job
+<!-- - 🔭 I’m currently looking for my first job -->
 - 🌱 I’m currently learning full-stack development with javascript
 - 😄 Pronouns: He/His
 <!--
